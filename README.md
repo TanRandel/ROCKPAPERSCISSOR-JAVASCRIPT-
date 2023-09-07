@@ -23,5 +23,5 @@ This is a simple Rock, Paper, Scissors game implemented in JavaScript. It allows
 
 ## Author
 
-- [Your Name](https://github.com/your-username)
+- [https://github.com/TanRandel)]
 
